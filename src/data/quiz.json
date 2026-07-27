@@ -8,7 +8,643 @@
     "jawaban": "C. Mars"
   },
   {
-    "soal": "Berapa hasil dari 5 + 5 x 5?\n\nA. 30\nB. 50\nC. 25\nD. 35",
-    "jawaban": "A. 30"
+    "soal": "Negara manakah yang memiliki bentuk seperti sepatu bot?\n\nA. Spanyol\nB. Italia\nC. Yunani\nD. Prancis",
+    "jawaban": "B. Italia"
+  },
+  {
+    "soal": "Hewan darat apakah yang memiliki leher paling panjang di dunia?\n\nA. Gajah\nB. Kuda Nil\nC. Jerapah\nD. Badak",
+    "jawaban": "C. Jerapah"
+  },
+  {
+    "soal": "Apakah ibu kota dari negara Jepang?\n\nA. Osaka\nB. Kyoto\nC. Tokyo\nD. Hiroshima",
+    "jawaban": "C. Tokyo"
+  },
+  {
+    "soal": "Samudra manakah yang merupakan samudra terluas di dunia?\n\nA. Samudra Atlantik\nB. Samudra Hindia\nC. Samudra Arktik\nD. Samudra Pasifik",
+    "jawaban": "D. Samudra Pasifik"
+  },
+  {
+    "soal": "Burung apakah yang dikenal sebagai satu-satunya burung yang dapat terbang mundur?\n\nA. Burung Hantu\nB. Kolibri\nC. Albatros\nD. Elang",
+    "jawaban": "B. Kolibri"
+  },
+  {
+    "soal": "Di benua manakah Gurun Sahara terletak?\n\nA. Asia\nB. Australia\nC. Afrika\nD. Amerika Selatan",
+    "jawaban": "C. Afrika"
+  },
+  {
+    "soal": "Siapakah penulis novel terkenal 'Harry Potter'?\n\nA. J.R.R. Tolkien\nB. J.K. Rowling\nC. C.S. Lewis\nD. Stephen King",
+    "jawaban": "B. J.K. Rowling"
+  },
+  {
+    "soal": "Organ tubuh manusia manakah yang berfungsi untuk memompa darah ke seluruh tubuh?\n\nA. Paru-paru\nB. Hati\nC. Jantung\nD. Ginjal",
+    "jawaban": "C. Jantung"
+  },
+  {
+    "soal": "Unsur kimia apakah yang memiliki simbol 'O'?\n\nA. Emas\nB. Oksigen\nC. Perak\nD. Besi",
+    "jawaban": "B. Oksigen"
+  },
+  {
+    "soal": "Gedung Empire State yang terkenal terletak di kota mana?\n\nA. Los Angeles\nB. Chicago\nC. New York\nD. Washington D.C.",
+    "jawaban": "C. New York"
+  },
+  {
+    "soal": "Apa nama mata uang resmi yang digunakan di negara Inggris?\n\nA. Euro\nB. Dolar\nC. Poundsterling\nD. Yen",
+    "jawaban": "C. Poundsterling"
+  },
+  {
+    "soal": "Binatang apakah yang menjadi simbol resmi dari negara Australia?\n\nA. Panda\nB. Kanguru\nC. Beruang Kutub\nD. Harimau",
+    "jawaban": "B. Kanguru"
+  },
+  {
+    "soal": "Gunung berapi apakah yang tertinggi di benua Afrika?\n\nA. Gunung Kilimanjaro\nB. Gunung Kenya\nC. Gunung Atlas\nD. Gunung Elbrus",
+    "jawaban": "A. Gunung Kilimanjaro"
+  },
+  {
+    "soal": "Lukisan terkenal 'Mona Lisa' diciptakan oleh seniman siapa?\n\nA. Vincent van Gogh\nB. Leonardo da Vinci\nC. Pablo Picasso\nD. Claude Monet",
+    "jawaban": "B. Leonardo da Vinci"
+  },
+  {
+    "soal": "Alat musik tradisional angklung berasal dari daerah mana di Indonesia?\n\nA. Jawa Tengah\nB. Jawa Barat\nC. Bali\nD. Sumatra Barat",
+    "jawaban": "B. Jawa Barat"
+  },
+  {
+    "soal": "Gas apakah yang paling banyak terkandung di dalam atmosfer bumi?\n\nA. Oksigen\nB. Karbon Dioksida\nC. Nitrogen\nD. Hidrogen",
+    "jawaban": "C. Nitrogen"
+  },
+  {
+    "soal": "Benua manakah yang dijuluki sebagai Benua Hitam?\n\nA. Asia\nB. Afrika\nC. Australia\nD. Antartika",
+    "jawaban": "B. Afrika"
+  },
+  {
+    "soal": "Siapakah pencipta lagu kebangsaan Indonesia Raya?\n\nA. W.R. Supratman\nB. Ismail Marzuki\nC. H. Mutahar\nD. Kusbini",
+    "jawaban": "A. W.R. Supratman"
+  },
+  {
+    "soal": "Hewan apakah yang dikenal sebagai mamalia terbesar di bumi?\n\nA. Gajah Afrika\nB. Paus Biru\nC. Hiu Putih\nD. Paus Pembunuh",
+    "jawaban": "B. Paus Biru"
+  },
+  {
+    "soal": "Candi Buddha terbesar di dunia yang terletak di Indonesia adalah...\n\nA. Candi Prambanan\nB. Candi Borobudur\nC. Candi Mendut\nD. Candi Sewu",
+    "jawaban": "B. Candi Borobudur"
+  },
+  {
+    "soal": "Lapisan atmosfer bumi manakah yang berada paling dekat dengan permukaan tanah?\n\nA. Stratosfer\nB. Mesosfer\nC. Troposfer\nD. Thermosfer",
+    "jawaban": "C. Troposfer"
+  },
+  {
+    "soal": "Olahraga bulu tangkis berasal dari negara mana?\n\nA. Indonesia\nB. Tiongkok\nC. Inggris\nD. Malaysia",
+    "jawaban": "C. Inggris"
+  },
+  {
+    "soal": "Vitamin apakah yang banyak dihasilkan tubuh saat kulit terkena sinar matahari pagi?\n\nA. Vitamin A\nB. Vitamin B\nC. Vitamin C\nD. Vitamin D",
+    "jawaban": "D. Vitamin D"
+  },
+  {
+    "soal": "Alat pengukur gempa bumi disebut dengan nama...\n\nA. Barometer\nB. Seismograf\nC. Anemometer\nD. Termometer",
+    "jawaban": "B. Seismograf"
+  },
+  {
+    "soal": "Siapakah penemu teori relativitas yang sangat terkenal?\n\nA. Isaac Newton\nB. Albert Einstein\nC. Galileo Galilei\nD. Stephen Hawking",
+    "jawaban": "B. Albert Einstein"
+  },
+  {
+    "soal": "Kain tradisional Indonesia yang diakui oleh UNESCO sebagai Warisan Kemanusiaan untuk Budaya Lisan dan Nonbendawi adalah...\n\nA. Ulos\nB. Batik\nC. Songket\nD. Tenun Ikat",
+    "jawaban": "B. Batik"
+  },
+  {
+    "soal": "Garis khayal yang membagi bumi menjadi belahan bumi utara dan selatan disebut...\n\nA. Garis Bujur\nB. Garis Meridian\nC. Garis Khatulistiwa\nD. Garis Balik",
+    "jawaban": "C. Garis Khatulistiwa"
+  },
+  {
+    "soal": "Hewan apakah yang mengalami metamorfosis dari berudu menjadi katak?\n\nA. Ikan\nB. Katak\nC. Kura-kura\nD. Buaya",
+    "jawaban": "B. Katak"
+  },
+  {
+    "soal": "Di negara manakah menara miring Pisa berada?\n\nA. Prancis\nB. Spanyol\nC. Italia\nD. Jerman",
+    "jawaban": "C. Italia"
+  },
+  {
+    "soal": "Planet manakah yang letaknya paling dekat dengan matahari di tata surya kita?\n\nA. Merkurius\nB. Venus\nC. Bumi\nD. Mars",
+    "jawaban": "A. Merkurius"
+  },
+  {
+    "soal": "Pusat tata surya kita adalah...\n\nA. Bumi\nB. Bulan\nC. Matahari\nD. Bimasakti",
+    "jawaban": "C. Matahari"
+  },
+  {
+    "soal": "Apakah nama alat musik tradisional khas dari provinsi Jawa Barat yang terbuat dari bambu dan dimainkan dengan cara digoyangkan?\n\nA. Kolintang\nB. Gamelan\nC. Angklung\nD. Sasando",
+    "jawaban": "C. Angklung"
+  },
+  {
+    "soal": "Ibu kota dari negara Australia adalah...\n\nA. Sydney\nB. Melbourne\nC. Canberra\nD. Perth",
+    "jawaban": "C. Canberra"
+  },
+  {
+    "soal": "Candi Hindu terbesar di Indonesia yang terletak di Yogyakarta adalah...\n\nA. Candi Borobudur\nB. Candi Prambanan\nC. Candi Plaosan\nD. Candi Kalasan",
+    "jawaban": "B. Candi Prambanan"
+  },
+  {
+    "soal": "Hewan apakah yang dikenal sebagai raja hutan?\n\nA. Harimau\nB. Singa\nC. Serigala\nD. Beruang",
+    "jawaban": "B. Singa"
+  },
+  {
+    "soal": "Alat indra pada manusia yang berfungsi untuk mengecap rasa adalah...\n\nA. Hidung\nB. Kulit\nC. Lidah\nD. Telinga",
+    "jawaban": "C. Lidah"
+  },
+  {
+    "soal": "Air terjun Niagara terletak di perbatasan antara negara Amerika Serikat dan...\n\nA. Meksiko\nB. Kanada\nC. Brasil\nD. Kuba",
+    "jawaban": "B. Kanada"
+  },
+  {
+    "soal": "Bahan utama untuk membuat agar-agar adalah...\n\nA. Rumput laut\nB. Tepung tapioka\nC. Getah karet\nD. Batang tebu",
+    "jawaban": "A. Rumput laut"
+  },
+  {
+    "soal": "Apakah nama ibu kota dari negara Prancis?\n\nA. London\nB. Berlin\nC. Paris\nD. Madrid",
+    "jawaban": "C. Paris"
+  },
+  {
+    "soal": "Binatang laut manakah yang memiliki delapan lengan dan bisa menyemprotkan tinta hitam?\n\nA. Kepiting\nB. Gurita\nC. Ubur-ubur\nD. Bintang laut",
+    "jawaban": "B. Gurita"
+  },
+  {
+    "soal": "Pulau Bali di Indonesia terkenal dengan sebutan Pulau...\n\nA. Seribu\nB. Dewata\nC. Perca\nD. Laskar",
+    "jawaban": "B. Dewata"
+  },
+  {
+    "soal": "Tahun kemerdekaan Republik Indonesia diproklamirkan pada tahun...\n\nA. 1942\nB. 1945\nC. 1950\nD. 1908",
+    "jawaban": "B. 1945"
+  },
+  {
+    "soal": "Jenis akar yang dimiliki oleh tanaman padi adalah...\n\nA. Akar tunggang\nB. Akar serabut\nC. Akar gantung\nD. Akar pelekat",
+    "jawaban": "B. Akar serabut"
+  },
+  {
+    "soal": "Hewan yang aktif mencari makan pada malam hari disebut hewan...\n\nA. Nokturnal\nB. Diurnal\nC. Karnivora\nD. Herbivora",
+    "jawaban": "A. Nokturnal"
+  },
+  {
+    "soal": "Penemu telepon pertama di dunia adalah...\n\nA. Alexander Graham Bell\nB. Thomas Alva Edison\nC. Guglielmo Marconi\nD. Wright Bersaudara",
+    "jawaban": "A. Alexander Graham Bell"
+  },
+  {
+    "soal": "Alat musik tradisional Sasando berasal dari pulau...\n\nA. Bali\nB. Rote\nC. Madura\nD. Lombok",
+    "jawaban": "B. Rote"
+  },
+  {
+    "soal": "Organisasi kesehatan dunia di bawah naungan PBB disingkat sebagai...\n\nA. UNESCO\nB. UNICEF\nC. WHO\nD. FAO",
+    "jawaban": "C. WHO"
+  },
+  {
+    "soal": "Proses tumbuhan memasak makanannya sendiri dengan bantuan cahaya matahari disebut...\n\nA. Respirasi\nB. Fotosintesis\nC. Transpirasi\nD. Fermentasi",
+    "jawaban": "B. Fotosintesis"
+  },
+  {
+    "soal": "Hari Kemerdekaan Republik Indonesia diperingati setiap tanggal...\n\nA. 1 Juni\nB. 17 Agustus\nC. 20 Mei\nD. 28 Oktober",
+    "jawaban": "B. 17 Agustus"
+  },
+  {
+    "soal": "Danau Toba yang merupakan Danau terbesar di Indonesia terletak di provinsi...\n\nA. Sumatra Utara\nB. Sumatra Barat\nC. Riau\nD. Aceh",
+    "jawaban": "A. Sumatra Utara"
+  },
+  {
+    "soal": "Hewan endemik Indonesia yang dilindungi dan hanya bisa ditemukan di Pulau Komodo adalah...\n\nA. Badak Jawa\nB. Orangutan\nC. Komodo\nD. Anoa",
+    "jawaban": "C. Komodo"
+  },
+  {
+    "soal": "Benda langit yang memantulkan cahaya matahari pada malam hari adalah...\n\nA. Bintang\nB. Bulan\nC. Komet\nD. Meteor",
+    "jawaban": "B. Bulan"
+  },
+  {
+    "soal": "Alat pernapasan utama pada ikan adalah...\n\nA. Paru-paru\nB. Trakea\nC. Insang\nD. Kulit",
+    "jawaban": "C. Insang"
+  },
+  {
+    "soal": "Kerajaan Hindu tertua di Indonesia berdasarkan bukti sejarah adalah kerajaan...\n\nA. Majapahit\nB. Singasari\nC. Kutai\nD. Tarumanagara",
+    "jawaban": "C. Kutai"
+  },
+  {
+    "soal": "Benua terkecil di dunia berdasarkan luas wilayahnya adalah...\n\nA. Eropa\nB. Australia\nC. Antartika\nD. Afrika",
+    "jawaban": "B. Australia"
+  },
+  {
+    "soal": "Sumpah Pemuda dicetuskan pada tanggal...\n\nA. 28 Oktober 1928\nB. 17 Agustus 1945\nC. 1 Juni 1945\nD. 20 Mei 1908",
+    "jawaban": "A. 28 Oktober 1928"
+  },
+  {
+    "soal": "Alat untuk melihat benda-benda yang sangat kecil atau mikroorganisme disebut...\n\nA. Teleskop\nB. Mikroskop\nC. Periskop\nD. Stetoskop",
+    "jawaban": "B. Mikroskop"
+  },
+  {
+    "soal": "Provinsi Aceh terkenal dengan julukan kota...\n\nA. Kota Pahlawan\nB. Serambi Mekkah\nC. Kota Kembang\nD. Kota Pelajar",
+    "jawaban": "B. Serambi Mekkah"
+  },
+  {
+    "soal": "Lagu daerah 'Ampar-Ampar Pisang' berasal dari provinsi...\n\nA. Kalimantan Selatan\nB. Sulawesi Selatan\nC. Maluku\nD. Papua",
+    "jawaban": "A. Kalimantan Selatan"
+  },
+  {
+    "soal": "Negara terkecil di dunia baik dari segi luas maupun populasi adalah...\n\nA. Monako\nB. Vatikan\nC. San Marino\nD. Liechtenstein",
+    "jawaban": "B. Vatikan"
+  },
+  {
+    "soal": "Zat hijau daun yang berperan penting dalam proses fotosintesis disebut...\n\nA. Klorofil\nB. Stomata\nC. Kloroplas\nD. Cambium",
+    "jawaban": "A. Klorofil"
+  },
+  {
+    "soal": "Lambang negara Republik Indonesia adalah...\n\nA. Rajawali\nB. Banteng\nC. Garuda Pancasila\nD. Macan Putih",
+    "jawaban": "C. Garuda Pancasila"
+  },
+  {
+    "soal": "Penyakit kekurangan darah merah di dalam tubuh disebut...\n\nA. Hipertensi\nB. Anemia\nC. Leukimia\nD. Diabetes",
+    "jawaban": "B. Anemia"
+  },
+  {
+    "soal": "Pencipta lagu 'Ibu Pertiwi' adalah...\n\nA. Ismail Marzuki\nB. Ibu Sud\nC. C. Simanjuntak\nD. Kusbini",
+    "jawaban": "B. Ibu Sud"
+  },
+  {
+    "soal": "Kain tenun ikat tradisional Sikka berasal dari daerah...\n\nA. Flores, Nusa Tenggara Timur\nB. Bali\nC. Lombok, Nusa Tenggara Barat\nD. Madura",
+    "jawaban": "A. Flores, Nusa Tenggara Timur"
+  },
+  {
+    "soal": "Gurun terluas di dunia (selain wilayah kutub) adalah...\n\nA. Gurun Gobi\nB. Gurun Kalahari\nC. Gurun Sahara\nD. Gurun Mojave",
+    "jawaban": "C. Gurun Sahara"
+  },
+  {
+    "soal": "Alat ukur yang digunakan untuk mengukur kecepatan angin adalah...\n\nA. Anemometer\nB. Barometer\nC. Hidrometer\nD. Higrometer",
+    "jawaban": "A. Anemometer"
+  },
+  {
+    "soal": "Bahan bakar fosil yang berbentuk cair dan sering disebut sebagai emas hitam adalah...\n\nA. Batubara\nB. Minyak bumi\nC. Gas alam\nD. Aspal",
+    "jawaban": "B. Minyak bumi"
+  },
+  {
+    "soal": "Batas wilayah perairan Indonesia berdasarkan deklarasi Djuanda diukur sejauh berapa mil dari garis pantai?\n\nA. 3 mil\nB. 12 mil\nC. 200 mil\nD. 24 mil",
+    "jawaban": "B. 12 mil"
+  },
+  {
+    "soal": "Hewan mamalia yang dapat terbang dengan bantuan selaput sayap adalah...\n\nA. Burung Hantu\nB. Kelelawar\nC. Musang\nD. Tupai",
+    "jawaban": "B. Kelelawar"
+  },
+  {
+    "soal": "Penemu pesawat terbang pertama di dunia adalah...\n\nA. Wright Bersaudara\nB. Thomas Edison\nC. Albert Einstein\nD. Alexander Graham Bell",
+    "jawaban": "A. Wright Bersaudara"
+  },
+  {
+    "soal": "Garis lintang 0 derajat di bumi dikenal dengan nama...\n\nA. Garis Bujur\nB. Garis Khatulistiwa\nC. Garis Meridian\nD. Garis Balik Utara",
+    "jawaban": "B. Garis Khatulistiwa"
+  },
+  {
+    "soal": "Pulau terbesar di wilayah Indonesia adalah...\n\nA. Jawa\nB. Sumatra\nC. Kalimantan\nD. Sulawesi",
+    "jawaban": "C. Kalimantan"
+  },
+  {
+    "soal": "Ibu kota dari negara Mesir adalah...\n\nA. Kairo\nB. Alexandria\nC. Giza\nD. Luxor",
+    "jawaban": "A. Kairo"
+  },
+  {
+    "soal": "Bagian dari tumbuhan yang berfungsi menyerap air dan mineral dari dalam tanah adalah...\n\nA. Daun\nB. Batang\nC. Akar\nD. Bunga",
+    "jawaban": "C. Akar"
+  },
+  {
+    "soal": "Nama selat yang memisahkan antara pulau Jawa dan pulau Sumatra adalah...\n\nA. Selat Bali\nB. Selat Sunda\nC. Selat Madura\nD. Selat Malaka",
+    "jawaban": "B. Selat Sunda"
+  },
+  {
+    "soal": "Siapakah nama presiden pertama Republik Indonesia?\n\nA. Soeharto\nB. B.J. Habibie\nC. Ir. Soekarno\nD. Joko Widodo",
+    "jawaban": "C. Ir. Soekarno"
+  },
+  {
+    "soal": "Benua terluas di permukaan bumi adalah...\n\nA. Afrika\nB. Amerika\nC. Asia\nD. Australia",
+    "jawaban": "C. Asia"
+  },
+  {
+    "soal": "Alat optik yang digunakan untuk melihat benda-benda yang sangat jauh seperti bintang di angkasa adalah...\n\nA. Mikroskop\nB. Teleskop\nC. Lup\nD. Periskop",
+    "jawaban": "B. Teleskop"
+  },
+  {
+    "soal": "Tari tradisional yang berasal dari provinsi Aceh dan terkenal dengan gerakan cepat serta tepuk tangan serentak adalah...\n\nA. Tari Saman\nB. Tari Pendet\nC. Tari Piring\nD. Tari Jaipong",
+    "jawaban": "A. Tari Saman"
+  },
+  {
+    "soal": "Hewan pemakan segala (tumbuhan dan daging) disebut dengan istilah...\n\nA. Herbivora\nB. Karnivora\nC. Omnivora\nD. Insektivora",
+    "jawaban": "C. Omnivora"
+  },
+  {
+    "soal": "Sungai terpanjang di dunia yang terletak di benua Afrika adalah...\n\nA. Sungai Amazon\nB. Sungai Nil\nC. Sungai Yangtze\nD. Sungai Mississippi",
+    "jawaban": "B. Sungai Nil"
+  },
+  {
+    "soal": "Hewan apakah yang dikenal sebagai tercepat di darat?\n\nA. Singa\nB. Kuda\nC. Citah\nD. Antelop",
+    "jawaban": "C. Citah"
+  },
+  {
+    "soal": "Negara manakah yang memiliki jumlah penduduk terbanyak di dunia saat ini?\n\nA. Amerika Serikat\nB. India\nC. Indonesia\nD. Rusia",
+    "jawaban": "B. India"
+  },
+  {
+    "soal": "Alat musik tradisional yang dimainkan dengan cara dipetik dari provinsi Nusa Tenggara Timur adalah...\n\nA. Sasando\nB. Angklung\nC. Kolintang\nD. Tifa",
+    "jawaban": "A. Sasando"
+  },
+  {
+    "soal": "Senjata tradisional khas dari daerah Aceh adalah...\n\nA. Keris\nB. Rencong\nC. Mandau\nD. Badik",
+    "jawaban": "B. Rencong"
+  },
+  {
+    "soal": "Planet terbesar di dalam tata surya kita adalah...\n\nA. Saturnus\nB. Jupiter\nC. Uranus\nD. Neptunus",
+    "jawaban": "B. Jupiter"
+  },
+  {
+    "soal": "Batu permata yang terbentuk dari karbon murni di bawah tekanan tinggi adalah...\n\nA. Berlian\nB. Zamrud\nC. Safir\nD. Rubik",
+    "jawaban": "A. Berlian"
+  },
+  {
+    "soal": "Bahasa resmi yang digunakan di negara Brasil adalah...\n\nA. Spanyol\nB. Portugis\nC. Inggris\nD. Prancis",
+    "jawaban": "B. Portugis"
+  },
+  {
+    "soal": "Pusat pemerintahan atau ibu kota dari negara Kanada adalah...\n\nA. Toronto\nB. Vancouver\nC. Ottawa\nD. Montreal",
+    "jawaban": "C. Ottawa"
+  },
+  {
+    "soal": "Organ pada sistem pencernaan manusia tempat terjadinya penyerapan sari-sari makanan yang utama adalah...\n\nA. Lambung\nB. Usus besar\nC. Usus halus\nD. Kerongkongan",
+    "jawaban": "C. Usus halus"
+  },
+  {
+    "soal": "Rumah adat tradisional dari provinsi Papua dinamakan...\n\nA. Rumah Gadang\nB. Rumah Joglo\nC. Rumah Honai\nD. Rumah Limas",
+    "jawaban": "C. Rumah Honai"
+  },
+  {
+    "soal": "Siapakah penemu mesin uap yang menjadi pemicu Revolusi Industri?\n\nA. James Watt\nB. Isaac Newton\nC. Michael Faraday\nD. Alexander Fleming",
+    "jawaban": "A. James Watt"
+  },
+  {
+    "soal": "Cabang olahraga atletik yang melombakan lari dengan melewati halang rintang berupa gawang disebut lari...\n\nA. Estafet\nB. Gawang\nC. Maraton\nD. Sprint",
+    "jawaban": "B. Gawang"
+  },
+  {
+    "soal": "Zat pengawet alami yang sering digunakan untuk makanan tradisional ikan asin adalah...\n\nA. Gula\nB. Garam\nC. Cuka\nD. Asam",
+    "jawaban": "B. Garam"
+  },
+  {
+    "soal": "Taman Nasional Loh Buaya yang terkenal sebagai habitat komodo berada di pulau...\n\nA. Rinca\nB. Flores\nC. Sumbawa\nD. Bali",
+    "jawaban": "A. Rinca"
+  },
+  {
+    "soal": "Bentuk negara Singapura adalah...\n\nA. Kerajaan\nB. Republik\nC. Kesultanan\nD. Federasi",
+    "jawaban": "B. Republik"
+  },
+  {
+    "soal": "Pahlawan nasional wanita dari Aceh yang berjuang melawan penjajah Belanda adalah...\n\nA. R.A. Kartini\nB. Cut Nyak Dien\nC. Dewi Sartika\nD. Martha Christina Tiahahu",
+    "jawaban": "B. Cut Nyak Dien"
+  },
+  {
+    "soal": "Alat musik tradisional gendang dimainkan dengan cara...\n\nA. Ditiup\nB. Dipukul\nC. Digesek\nD. Dipetik",
+    "jawaban": "B. Dipukul"
+  },
+  {
+    "soal": "Planet di tata surya yang memiliki sistem cincin paling jelas dan indah terlihat adalah...\n\nA. Jupiter\nB. Saturnus\nC. Uranus\nD. Neptunus",
+    "jawaban": "B. Saturnus"
+  },
+  {
+    "soal": "Ibu kota dari negara Korea Selatan adalah...\n\nA. Pyongyang\nB. Seoul\nC. Busan\nD. Incheon",
+    "jawaban": "B. Seoul"
+  },
+  {
+    "soal": "Vitamin yang sangat baik untuk menjaga kesehatan mata adalah...\n\nA. Vitamin A\nB. Vitamin B\nC. Vitamin C\nD. Vitamin K",
+    "jawaban": "A. Vitamin A"
+  },
+  {
+    "soal": "Garis bujur utama 0 derajat yang melewati kota Greenwich di Inggris dikenal sebagai garis...\n\nA. Khatulistiwa\nB. Meridian Utama\nC. Lintang Utara\nD. Balik Selatan",
+    "jawaban": "B. Meridian Utama"
+  },
+  {
+    "soal": "Lagu daerah 'Bubuy Bulan' berasal dari daerah...\n\nA. Jawa Tengah\nB. Jawa Barat\nC. Jawa Timur\nD. Bali",
+    "jawaban": "B. Jawa Barat"
+  },
+  {
+    "soal": "Nama pelabuhan internasional utama di Jakarta adalah pelabuhan...\n\nA. Tanjung Priok\nB. Tanjung Perak\nC. Belawan\nD. Bakauheni",
+    "jawaban": "A. Tanjung Priok"
+  },
+  {
+    "soal": "Penemu penisilin yang merupakan antibiotik pertama di dunia adalah...\n\nA. Louis Pasteur\nB. Alexander Fleming\nC. Edward Jenner\nD. Robert Koch",
+    "jawaban": "B. Alexander Fleming"
+  },
+  {
+    "soal": "Sistem tanam paksa di Indonesia pada masa kolonial Belanda dicetuskan oleh...\n\nA. H.W. Daendels\nB. J.P. Coen\nC. Johannes van den Bosch\nD. Thomas Stamford Raffles",
+    "jawaban": "C. Johannes van den Bosch"
+  },
+  {
+    "soal": "Nama benua yang seluruh wilayahnya tertutup oleh es abadi adalah...\n\nA. Asia\nB. Antartika\nC. Eropa\nD. Australia",
+    "jawaban": "B. Antartika"
+  },
+  {
+    "soal": "Kerajaan Islam pertama di pulau Jawa berdasarkan catatan sejarah adalah...\n\nA. Kerajaan Demak\nB. Kesultanan Mataram\nC. Kesultanan Banten\nD. Kesultanan Cirebon",
+    "jawaban": "A. Kerajaan Demak"
+  },
+  {
+    "soal": "Alat pernapasan pada tumbuhan yang terdapat di permukaan daun adalah...\n\nA. Lentisel\nB. Stomata\nC. Vakuola\nD. Xilem",
+    "jawaban": "B. Stomata"
+  },
+  {
+    "soal": "Bunga nasional negara Indonesia yang dijuluki sebagai Puspa Pesona adalah...\n\nA. Bunga Bangkai\nB. Melati Putih\nC. Anggrek Bulan\nD. Bunga Matahari",
+    "jawaban": "C. Anggrek Bulan"
+  },
+  {
+    "soal": "Mata uang resmi yang digunakan di negara Jepang adalah...\n\nA. Won\nB. Yuan\nC. Yen\nD. Ringgit",
+    "jawaban": "C. Yen"
+  },
+  {
+    "soal": "Alat musik tradisional Tifa berasal dari wilayah...\n\nA. Sumatra dan Jawa\nB. Maluku dan Papua\nC. Bali dan Lombok\nD. Kalimantan dan Sulawesi",
+    "jawaban": "B. Maluku dan Papua"
+  },
+  {
+    "soal": "Senjata tradisional parang lambang keperwiraan berasal dari daerah...\n\nA. Maluku\nB. Jawa Tengah\nC. Sumatra Utara\nD. Sulawesi Selatan",
+    "jawaban": "A. Maluku"
+  },
+  {
+    "soal": "Peristiwa Rengasdengklok menjelang proklamasi kemerdekaan terjadi pada tanggal...\n\nA. 16 Agustus 1945\nB. 17 Agustus 1945\nC. 15 Agustus 1945\nD. 18 Agustus 1945",
+    "jawaban": "A. 16 Agustus 1945"
+  },
+  {
+    "soal": "Alat ukur yang digunakan untuk mengukur tekanan udara luar adalah...\n\nA. Termometer\nB. Barometer\nC. Higrometer\nD. Anemometer",
+    "jawaban": "B. Barometer"
+  },
+  {
+    "soal": "Pulau Flores di Nusa Tenggara Timur terkenal dengan keindahan dan keunikan danau tiga warnanya yang bernama...\n\nA. Danau Toba\nB. Danau Kelimutu\nC. Danau Maninjau\nD. Danau Singkarak",
+    "jawaban": "B. Danau Kelimutu"
+  },
+  {
+    "soal": "Zat yang berfungsi mempercepat reaksi kimia dalam tubuh makhluk hidup tanpa ikut bereaksi disebut...\n\nA. Hormon\nB. Enzim\nC. Vitamin\nD. Protein",
+    "jawaban": "B. Enzim"
+  },
+  {
+    "soal": "Ibu kota dari negara Malaysia adalah...\n\nA. Putrajaya\nB. Kuala Lumpur\nC. Penang\nD. Malaka",
+    "jawaban": "B. Kuala Lumpur"
+  },
+  {
+    "soal": "Gedung perundingan teks proklamasi kemerdekaan Indonesia bertempat di rumah Laksamana...\n\nA. Maeda\nB. Tadashi\nC. Terauchi\nD. Yamamoto",
+    "jawaban": "A. Maeda"
+  },
+  {
+    "soal": "Jenis batuan yang terbentuk dari pendinginan magma atau lava pijar disebut batuan...\n\nA. Sedimen\nB. Metamorf\nC. Beku\nD. Malihan",
+    "jawaban": "C. Beku"
+  },
+  {
+    "soal": "Tokoh penemu arus listrik bolak-balik (AC) adalah...\n\nA. Thomas Alva Edison\nB. Nikola Tesla\nC. Alessandro Volta\nD. Michael Faraday",
+    "jawaban": "B. Nikola Tesla"
+  },
+  {
+    "soal": "Nama selat yang memisahkan antara pulau Jawa dan pulau Bali adalah...\n\nA. Selat Sunda\nB. Selat Bali\nC. Selat Lombok\nD. Selat Karimata",
+    "jawaban": "B. Selat Bali"
+  },
+  {
+    "soal": "Candi Prambanan merupakan kompleks candi pemujaan untuk dewa utama dalam agama Hindu, yaitu Trimurti, yang terdiri dari Brahma, Siwa, dan...\n\nA. Wisnu\nB. Ganesha\nC. Indra\nD. Agni",
+    "jawaban": "A. Wisnu"
+  },
+  {
+    "soal": "Gelar Bapak Pendidikan Nasional di Indonesia disematkan kepada...\n\nA. Ir. Soekarno\nB. Ki Hajar Dewantara\nC. Mohammad Hatta\nD. Cipto Mangunkusumo",
+    "jawaban": "B. Ki Hajar Dewantara"
+  },
+  {
+    "soal": "Benua yang memiliki luas wilayah terbesar kedua di dunia setelah Asia adalah...\n\nA. Afrika\nB. Amerika Utara\nC. Amerika Selatan\nD. Eropa",
+    "jawaban": "A. Afrika"
+  },
+  {
+    "soal": "Organ tubuh manusia yang berfungsi untuk menyaring racun dari dalam darah adalah...\n\nA. Jantung\nB. Paru-paru\nC. Hati\nD. Lambung",
+    "jawaban": "C. Hati"
+  },
+  {
+    "soal": "Perusahaan pembuat pesawat terbang nasional Indonesia (PT Dirgantara Indonesia) terletak di kota...\n\nA. Jakarta\nB. Surabaya\nC. Bandung\nD. Malang",
+    "jawaban": "C. Bandung"
+  },
+  {
+    "soal": "Sistem pernapasan pada belalang dan serangga lainnya menggunakan saluran yang disebut...\n\nA. Insang\nB. Paru-paru buku\nC. Trakea\nD. Kulit",
+    "jawaban": "C. Trakea"
+  },
+  {
+    "soal": "Nama laut yang terletak di sebelah utara pulau Jawa adalah Laut...\n\nA. Jawa\nB. Banda\nC. Flores\nD. Arafuru",
+    "jawaban": "A. Jawa"
+  },
+  {
+    "soal": "Penemu vaksin cacar pertama di dunia adalah...\n\nA. Louis Pasteur\nB. Edward Jenner\nC. Alexander Fleming\nD. Robert Koch",
+    "jawaban": "B. Edward Jenner"
+  },
+  {
+    "soal": "Alat musik tradisional Kolintang berasal dari daerah Sulawesi...\n\nA. Selatan\nB. Tenggara\nC. Utara\nD. Barat",
+    "jawaban": "C. Utara"
+  },
+  {
+    "soal": "Nama resmi organisasi pendiri bangsa Indonesia yang dicetuskan oleh dr. Wahidin Sudirohusodo pada tahun 1908 adalah...\n\nA. Sarekat Islam\nB. Budi Utomo\nC. Indische Partij\nD. Perhimpunan Indonesia",
+    "jawaban": "B. Budi Utomo"
+  },
+  {
+    "soal": "Lapisan pelindung bumi dari sinar ultraviolet matahari di atmosfer adalah lapisan...\n\nA. Ozon\nB. Troposfer\nC. Ionosfer\nD. Stratosfer",
+    "jawaban": "A. Ozon"
+  },
+  {
+    "soal": "Pusat pemerintahan dari negara Thailand terletak di kota...\n\nA. Phuket\nB. Chiang Mai\nC. Bangkok\nD. Pattaya",
+    "jawaban": "C. Bangkok"
+  },
+  {
+    "soal": "Jenis tulang yang menyusun rangka daun telinga manusia adalah tulang...\n\nA. Keras\nB. Rawan\nC. Pipa\nD. Pipih",
+    "jawaban": "B. Rawan"
+  },
+  {
+    "soal": "Lagu wajib nasional 'Bagimu Negeri' diciptakan oleh...\n\nA. Kusbini\nB. Ismail Marzuki\nC. W.R. Supratman\nD. Ibu Sud",
+    "jawaban": "A. Kusbini"
+  },
+  {
+    "soal": "Nama selat yang terletak di antara pulau Sumatra dan Semenanjung Malaya adalah Selat...\n\nA. Sunda\nB. Malaka\nC. Karimata\nD. Makassar",
+    "jawaban": "B. Malaka"
+  },
+  {
+    "soal": "Hewan yang berkembang biak dengan cara melahirkan disebut hewan...\n\nA. Ovipar\nB. Vivipar\nC. Ovovivipar\nD. Aseksual",
+    "jawaban": "B. Vivipar"
+  },
+  {
+    "soal": "Batas terluar wilayah daratan Indonesia di sebelah timur berbatasan langsung dengan negara...\n\nA. Malaysia\nB. Papua Nugini\nC. Timor Leste\nD. Australia",
+    "jawaban": "B. Papua Nugini"
+  },
+  {
+    "soal": "Perjanjian yang mengakhiri pertempuran antara Indonesia dan Belanda di atas kapal USS Renville ditandatangani pada tahun...\n\nA. 1945\nB. 1947\nC. 1948\nD. 1949",
+    "jawaban": "C. 1948"
+  },
+  {
+    "soal": "Unsur kimia dengan lambang 'Fe' merupakan singkatan dari unsur...\n\nA. Emas\nB. Besi\nC. Tembaga\nD. Perak",
+    "jawaban": "B. Besi"
+  },
+  {
+    "soal": "Kota di Indonesia yang mendapat julukan sebagai Kota Pahlawan adalah...\n\nA. Jakarta\nB. Semarang\nC. Surabaya\nD. Bandung",
+    "jawaban": "C. Surabaya"
+  },
+  {
+    "soal": "Penemu radio pertama yang memancarkan sinyal gelombang elektromagnetik jarak jauh adalah...\n\nA. Guglielmo Marconi\nB. Alexander Graham Bell\nC. Thomas Edison\nD. James Watt",
+    "jawaban": "A. Guglielmo Marconi"
+  },
+  {
+    "soal": "Tari Pendet merupakan tarian tradisional yang berasal dari provinsi...\n\nA. Jawa Timur\nB. Bali\nC. Sumatra Barat\nD. Sulawesi Utara",
+    "jawaban": "B. Bali"
+  },
+  {
+    "soal": "Negara di kawasan Asia Tenggara yang tidak pernah dijajah oleh bangsa Eropa adalah...\n\nA. Vietnam\nB. Thailand\nC. Indonesia\nD. Filipina",
+    "jawaban": "B. Thailand"
+  },
+  {
+    "soal": "Alat ukur kelembapan udara di suatu tempat dinamakan...\n\nA. Barometer\nB. Higrometer\nC. Anemometer\nD. Seismograf",
+    "jawaban": "B. Higrometer"
+  },
+  {
+    "soal": "Zat yang memberi warna merah pada darah manusia adalah...\n\nA. Plasma darah\nB. Leukosit\nC. Hemoglobin\nD. Trombosit",
+    "jawaban": "C. Hemoglobin"
+  },
+  {
+    "soal": "Ibu kota dari negara Filipina adalah...\n\nA. Davao\nB. Cebu\nC. Manila\nD. Quezon",
+    "jawaban": "C. Manila"
+  },
+  {
+    "soal": "Bentuk pemerintahan negara Indonesia adalah...\n\nA. Kerajaan\nB. Republik\nC. Serikat\nD. Emirat",
+    "jawaban": "B. Republik"
+  },
+  {
+    "soal": "Hari Pahlawan di Indonesia diperingati setiap tanggal...\n\nA. 20 Mei\nB. 28 Oktober\nC. 10 November\nD. 1 Juni",
+    "jawaban": "C. 10 November"
+  },
+  {
+    "soal": "Nama tokoh penjelajah samudra asal Portugis yang pertama kali tiba di Malaka adalah...\n\nA. Vasco da Gama\nB. Alfonso de Albuquerque\nC. Ferdinand Magellan\nD. Christopher Columbus",
+    "jawaban": "B. Alfonso de Albuquerque"
+  },
+  {
+    "soal": "Alat pencernaan makanan pada manusia tempat terjadinya pembusukan sisa makanan oleh bakteri E. coli adalah...\n\nA. Usus halus\nB. Usus besar\nC. Lambung\nD. Pankreas",
+    "jawaban": "B. Usus besar"
+  },
+  {
+    "soal": "Organisasi pergerakan nasional pertama di Indonesia yang didirikan oleh H. Samanhudi di Solo adalah...\n\nA. Budi Utomo\nB. Sarekat Dagang Islam\nC. Indische Partij\nD. Taman Siswa",
+    "jawaban": "B. Sarekat Dagang Islam"
+  },
+  {
+    "soal": "Pulau terbesar di dunia berdasarkan luas wilayah daratannya adalah...\n\nA. Kalimantan\nB. Greenland\nC. Madagaskar\nD. Sumatra",
+    "jawaban": "B. Greenland"
+  },
+  {
+    "soal": "Bagian bunga yang berfungsi sebagai alat kelamin jantan adalah...\n\nA. Putik\nB. Benang sari\nC. Mahkota\nD. Kelopak",
+    "jawaban": "B. Benang sari"
+  },
+  {
+    "soal": "Lagu daerah 'Soleram' berasal dari daerah provinsi...\n\nA. Sumatra Barat\nB. Riau\nC. Jambi\nD. Bengkulu",
+    "jawaban": "B. Riau"
+  },
+  {
+    "soal": "Mata uang resmi yang digunakan di negara Vietnam adalah...\n\nA. Baht\nB. Ringgit\nC. Dong\nD. Peso",
+    "jawaban": "C. Dong"
+  },
+  {
+    "soal": "Peristiwa pertempuran sengit di Bandung yang sengaja dibakar oleh pejuang Indonesia dikenal dengan nama...\n\nA. Bandung Lautan Api\nB. Palagan Ambarawa\nC. Serangan Umum 1 Maret\nD. Perang Diponegoro",
+    "jawaban": "A. Bandung Lautan Api"
+  },
+  {
+    "soal": "Unsur kimia dengan simbol 'Au' adalah lambang dari logam mulia...\n\nA. Perak\nB. Emas\nC. Tembaga\nD. Platinum",
+    "jawaban": "B. Emas"
   }
 ]
