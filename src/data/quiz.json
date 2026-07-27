@@ -1,6 +1,14 @@
 [
   {
-    "img": "https://images4.alphacoders.com/592/592538.jpg",
-    "jawaban": "Akame ga kill"
+    "soal": "Siapakah penemu bola lampu pijar?\n\nA. Albert Einstein\nB. Thomas Alva Edison\nC. Alexander Graham Bell\nD. Nikola Tesla",
+    "jawaban": "B"
+  },
+  {
+    "soal": "Planet manakah yang dikenal sebagai Planet Merah?\n\nA. Venus\nB. Jupiter\nC. Mars\nD. Saturnus",
+    "jawaban": "C"
+  },
+  {
+    "soal": "Berapa hasil dari 5 + 5 x 5?\n\nA. 30\nB. 50\nC. 25\nD. 35",
+    "jawaban": "A"
   }
 ]
